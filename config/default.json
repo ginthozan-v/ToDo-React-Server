@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://Ginthozan:55qj02nU0OXHnpvG@todo-react.mrhiu.mongodb.net/todoDB?retryWrites=true&w=majority",
+  "jwtSecret": "sl_myJwtSecret"
+}
